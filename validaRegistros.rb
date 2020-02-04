@@ -3,7 +3,7 @@
 # AUTOR/ES            : Norman Ruiz
 # VERSION             : 0.01 beta.
 # FECHA DE CREACION   : 21/11/2019.
-# ULTIMA ACTUALIZACION: 21/11/2019.
+# ULTIMA ACTUALIZACION: 23/11/2019.
 # LICENCIA            : GPL (General Public License) - Version 3.
 #
 #  **************************************************************************
